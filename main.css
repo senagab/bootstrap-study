@@ -25,10 +25,10 @@ body {
     font-family: 'Pacifico', cursive;
 }
 
-.section-title span {
-    color: orange;
-}
-
 #sobre {
     background-color: #ffeae6;
+}
+
+.text-colored {
+    color: orange;
 }
