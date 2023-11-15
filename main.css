@@ -1,11 +1,26 @@
-a .btn {
-    display: block;
+body {
+    font-family: 'Roboto', sans-serif;
 }
 
-time {
-    display: block;
+.navbar {
+    background-color: orange;
 }
 
-.post {
-    margin-bottom: 24px;
+.nav .nav-link.active {
+    background-color: #fff;
+    color: orange;
+}
+
+.nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.navbar-brand {
+    font-family: 'Pacifico', cursive;
+}
+
+.navbar-toggler {
+    background-color: #fff;
 }
